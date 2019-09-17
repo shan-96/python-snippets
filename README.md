@@ -1,0 +1,1 @@
+This projects contains sample tools, snippets and challenges done during springboard AIC
